@@ -1,5 +1,5 @@
 <coverage version="1">
-  <file path="Prueba/swift-coverage-example/AppDelegate.swift">
+  <file path="/Users/alan/Documents/repos/ios/IosCodemagicprueba123/Prueba/swift-coverage-example/AppDelegate.swift">
     <lineToCover lineNumber="17" covered="true"/>
     <lineToCover lineNumber="18" covered="true"/>
     <lineToCover lineNumber="19" covered="true"/>
@@ -14,7 +14,7 @@
     <lineToCover lineNumber="34" covered="true"/>
     <lineToCover lineNumber="35" covered="true"/>
   </file>
-  <file path="Prueba/swift-coverage-example/AppDelegate2.swift">
+  <file path="/Users/alan/Documents/repos/ios/IosCodemagicprueba123/Prueba/swift-coverage-example/AppDelegate2.swift">
     <lineToCover lineNumber="11" covered="true"/>
     <lineToCover lineNumber="12" covered="true"/>
     <lineToCover lineNumber="13" covered="false"/>
@@ -23,7 +23,7 @@
     <lineToCover lineNumber="16" covered="true"/>
     <lineToCover lineNumber="17" covered="true"/>
   </file>
-  <file path="Prueba/swift-coverage-exampleTests/swift_coverage_exampleTests.swift">
+  <file path="/Users/alan/Documents/repos/ios/IosCodemagicprueba123/Prueba/swift-coverage-exampleTests/swift_coverage_exampleTests.swift">
     <lineToCover lineNumber="14" covered="true"/>
     <lineToCover lineNumber="15" covered="true"/>
     <lineToCover lineNumber="16" covered="true"/>
